@@ -21,9 +21,6 @@ N = '\x1b[0m'
 import os
 
 try:
-
-	
-
 	os.system("pip install requests")
 
 try:
